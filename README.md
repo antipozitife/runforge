@@ -13,6 +13,10 @@
   <img alt="Tests: 16 passed" src="https://img.shields.io/badge/tests-16%20passed-2E7D5B" />
 </p>
 
+<p align="center">
+  <a href="https://runforge-liart.vercel.app/"><strong>Открыть live demo</strong></a>
+</p>
+
 ## О проекте
 
 Я сделала этот проект по тестовому заданию на позицию Junior Frontend Developer.
@@ -46,6 +50,8 @@ Inter, тёмно-синие акценты, тонкие границы и св
 - управление с клавиатуры и возврат фокуса после закрытия диалога.
 
 ## Запуск проекта
+
+Опубликованная версия: [runforge-liart.vercel.app](https://runforge-liart.vercel.app/)
 
 Для запуска нужны Node.js **22.12+** и pnpm **11.25.0**.
 
